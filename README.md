@@ -1,4 +1,4 @@
-# Pomodoro System
+# Pomodoro System ⏲️
 The Pomodoro System is a time management technique that helps you stay focused and productive by breaking your workday into 25-minute work sessions, followed by short breaks. After a set number of work sessions, you take a longer break to recharge.
 
 This Pomodoro System is a command-line tool written in Rust that helps you implement the Pomodoro technique in your work routine.
